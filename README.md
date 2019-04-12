@@ -7,3 +7,6 @@ The steps i have followed:
 4. feature seletion
 5. classifer models
 6. hyper-parameter optimization.
+
+
+**note this project is not yet completed ** 
